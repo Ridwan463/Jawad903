@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jawad903
+-  Hi, I’m @Jawad903
 - 👀 I’m interested in ...Python
 - 🌱 I’m currently learning ...PyQt6
 - 💞️ I’m looking to collaborate on ...PyQt6
